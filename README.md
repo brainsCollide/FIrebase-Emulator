@@ -1,7 +1,7 @@
 # emulators-codelab
 
 This is the demo video of the app
-https://drive.google.com/file/d/1oBVlr0Cx3A0KoW7qxTqbRGo_-aDTg83L/view?usp=sharing
+https://drive.google.com/file/d/1-dtcWg0e_Umo-xkjeLqUnRXmn9ATdUhS/view?usp=sharing
 
 This repository contains the companion code for the [Firebase Local Emulator Suite codelab][codelab].
 For more information on the Firebase Emulator Suite check out the [learning pathway][pathway].
